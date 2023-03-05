@@ -1,5 +1,5 @@
 # Vault Crypt
-Simples sistema para controle de informações pessoais no meu vault do obsidian
+Simples sistema de criptografia de informações pessoais no meu vault do obsidian
 
 ## Funcionalidades
 - Geração de chave
