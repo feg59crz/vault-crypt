@@ -3,10 +3,6 @@ import argparse
 from argparse import ArgumentParser
 import os
 
-KEY_NAME = 'vault_crypto.key'
-KEY_PATH = './'
-KEY_FILE = KEY_PATH + KEY_NAME
-
 
 def cryptFile(key, file):
     origin_file = file
