@@ -1,6 +1,6 @@
 # Vault Crypt
 
-Simples sistema de criptografia de informações pessoais no meu vault do obsidian
+Simples sistema de criptografia de informações no meu vault.
 
 ## Funcionalidades
 - [x] Geração de chave
